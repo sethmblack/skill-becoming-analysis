@@ -4,7 +4,8 @@ description: Reveal how an identity, role, or situation has been constructed rat
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3451
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - becoming-analysis
 - storytelling
